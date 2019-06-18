@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 quit
 :q
 t
 
+=======
+123asdas we dsf ads 
+>>>>>>> master
